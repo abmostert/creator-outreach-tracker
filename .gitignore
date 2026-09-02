@@ -1,0 +1,17 @@
+# Personal data (never commit)
+people_master.json
+people_master_*.json
+*.local.json
+*.bak.json
+
+# Exports & imports
+exports/
+imports/
+
+# Python noise
+__pycache__/
+*.pyc
+
+# OS/editor noise
+.DS_Store
+.vscode/
