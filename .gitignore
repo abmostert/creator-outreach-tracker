@@ -1,6 +1,6 @@
 # Personal data (never commit)
-people_master.json
-people_master_*.json
+creator_outreach_master.json
+creator_outreach_master_*.json
 *.local.json
 *.bak.json
 
@@ -15,3 +15,6 @@ __pycache__/
 # OS/editor noise
 .DS_Store
 .vscode/
+
+# Generated CSV exports
+*_export.csv
